@@ -7,6 +7,7 @@ const Test = () =>{
             <div>Exceed the best!</div>
             <div>It's true!</div>
             <div>Forgotten line</div>
+            <div>To rebase master new commit</div>
         </div>
     )
 }
