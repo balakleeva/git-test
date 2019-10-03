@@ -8,6 +8,7 @@ const Test = () =>{
             <div>It's true!</div>
             <div>Forgotten line</div>
             <div>To rebase master new commit</div>
+            <div>One more testing commit</div>
         </div>
     )
 }
