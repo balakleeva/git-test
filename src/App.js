@@ -6,7 +6,7 @@ import Test from './components/Test'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header new-class-name">
         Changes for second branch
         <p>
           Edit <code>src/App.js</code> and save to reload.
