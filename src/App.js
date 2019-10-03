@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Test from './components/Test'
+import Button from './components/Button'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Test />
         Test branch change
         Some changes in master
+        <Button/>
       </header>
     </div>
   );
