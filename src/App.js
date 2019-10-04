@@ -17,6 +17,7 @@ function App() {
         Test some features
         commit  
         commit1
+        rebase commit
       </header>
     </div>
   );
