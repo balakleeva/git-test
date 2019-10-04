@@ -21,6 +21,7 @@ function App() {
         rebase commit1
 
         rebase commit2
+        rebase commit3
       </header>
     </div>
   );
