@@ -19,6 +19,10 @@ function App() {
         commit1
         rebase commit
         rebase commit1
+
+
+
+        master commit
       </header>
     </div>
   );
